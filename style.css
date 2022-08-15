@@ -1,7 +1,7 @@
 body {
-    background-color: lightslategray;
+    background-color: lightslategray; /* Setting basic background colour */
   }
-  
+  /* Across h1, h2, s, and p1 I've set Arial as the default font */
   h1 {
     color: navy;
     margin-left: 5px;
@@ -22,14 +22,14 @@ body {
     font-family: Arial, Helvetica, sans-serif;
   }
 
-  table, th, td {
+  table, th, td { /* border set on all cells within a table */
     border: 1px solid;
   }
 
   hr {
     border: 2px solid black;
   }
-
+/* Setting consistent borders for image files */
   img {
     border: 5px solid black;
   }
