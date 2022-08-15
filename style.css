@@ -1,0 +1,35 @@
+body {
+    background-color: lightslategray;
+  }
+  
+  h1 {
+    color: navy;
+    margin-left: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  h2 {
+    color: navy;
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .p1 {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  a {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  table, th, td {
+    border: 1px solid;
+  }
+
+  hr {
+    border: 2px solid black;
+  }
+
+  img {
+    border: 5px solid black;
+  }
